@@ -11,6 +11,7 @@ This is the first Microverse Project for the second week. It involves creating a
 HTML
 CSS
 javascript
+Webpack as technology
 
 ## Live Demo
 
