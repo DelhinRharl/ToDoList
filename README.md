@@ -14,7 +14,7 @@ javascript
 
 ## Live Demo
 
-[Live Demo Link](https://delhinrharl.github.io/Portfolio/)
+[Live Demo Link](https://delhinrharl.github.io/list-structure/)
 
 ## Getting Started
 
