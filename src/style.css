@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(241, 240, 240);
+}
+
 main {
   display: flex;
   flex-direction: column;
@@ -20,13 +24,15 @@ h3 {
   padding: 0;
   width: 31.25rem;
   height: 3.5rem;
-  border-style: solid;
+  border-bottom: solid;
+  border-color: rgb(156, 156, 156);
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: start;
+  background-color: #fff;
   gap: 50%;
-  color: rgb(91, 91, 91);
+  color: rgb(36, 36, 36);
 }
 
 ::-webkit-input-placeholder {
@@ -36,7 +42,7 @@ h3 {
 
 #formation {
   width: 31.25rem;
-  border: solid;
+  border: none;
   border-color: rgb(250, 249, 249);
 }
 
@@ -48,10 +54,10 @@ h3 {
   margin: 0;
   padding: 0;
   height: 3.5rem;
-  background-color: rgb(243, 243, 243);
+  background-color: rgb(226, 225, 225);
   color: rgb(92, 91, 91);
-  border: solid;
-  width: 31.4rem;
+  border: none;
+  width: 31.25rem;
   font-size: 1.5rem;
 }
 
@@ -68,30 +74,35 @@ ul li {
   width: 31.25rem;
   border-style: solid;
   border-bottom: 0.125rem;
-  border-color: black;
+  border-color: rgb(156, 156, 156);
   display: flex;
   align-items: center;
   justify-content: space-around;
+  border-right: none;
 }
 
 .mystyle {
-  border-bottom: 0.125rem;
-  border-color: black;
+  border-bottom: 0.125rem rgb(95, 95, 95);
+  border-left: white;
 }
 
 .user {
   display: flex;
-  gap: 50%;
-  width: 100%;
+  gap: 0%;
+  width: 31.25rem;
   height: 3.5rem;
-  border-style: solid;
-  border-bottom: 0.5px;
-  border-top: 2px;
+  border-bottom: solid;
+  border-bottom: 1px;
+  border-left: none;
+  border-right: none;
+  background-color: #fff;
 }
 
-.userInput {
-  outline: none;
-  width: 30rem;
+#userInput {
+  width: 31.25rem;
+  display: flex;
+  height: 3.5rem;
+  border: none;
 }
 
 .check {
@@ -102,4 +113,8 @@ ul li {
 
 .fa-ellipsis-v {
   float: right;
+}
+
+.fa-level-down-alt {
+  margin-right: 3.25rem;
 }
