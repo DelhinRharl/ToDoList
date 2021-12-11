@@ -31,9 +31,9 @@ HTML,CSS,Git basics, Webpack
 
 Visual Studio Code Editor
 Web Browser
-Make a clone of the Repository using (git@github.com:DelhinRharl/Portfolio.git)
+[Make a clone of the Repository using] git@github.com:DelhinRharl/Portfolio.git
 
-# Install the necessary dependencies and run npm start on the terminal
+Install the necessary dependencies and run npm start on the terminal
 
 ### Run tests
 
