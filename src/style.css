@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(241, 240, 240);
+  background-color: rgb(223, 223, 223);
 }
 
 main {
@@ -16,7 +16,7 @@ header {
   margin: 0;
   padding: 0;
   width: 31.25rem;
-  margin-top: 20%;
+  margin-top: 10%;
 }
 
 h3 {
@@ -54,7 +54,7 @@ h3 {
   margin: 0;
   padding: 0;
   height: 3.5rem;
-  background-color: rgb(226, 225, 225);
+  background-color: rgb(204, 203, 203);
   color: rgb(92, 91, 91);
   border: none;
   width: 31.25rem;
@@ -106,8 +106,8 @@ ul li {
 }
 
 .check {
-  height: 20px;
-  width: 20px;
+  height: 30px;
+  width: 30px;
   justify-self: center;
 }
 
@@ -117,4 +117,27 @@ ul li {
 
 .fa-level-down-alt {
   margin-right: 3.25rem;
+}
+
+.fastrash {
+  width: 40px;
+  height: 40px;
+}
+
+textarea {
+  outline: none;
+  border: none;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.fasfas {
+  width: 60px;
+  height: 40px;
+  background-color: rgb(223, 223, 223);
+  display: flex;
+  align-items: center;
+  border: white;
+  margin: 10px;
+  border-radius: 5%;
 }
