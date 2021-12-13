@@ -15,7 +15,7 @@ Webpack as technology
 
 ## Live Demo
 
-[Live Demo Link](https://delhinrharl.github.io/list-structure/)
+[Live Demo Link](https://delhinrharl.github.io/ToDoList/dist)
 
 ## Getting Started
 
