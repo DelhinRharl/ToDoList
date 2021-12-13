@@ -14,7 +14,7 @@ javascript
 
 ## Live Demo
 
-[Live Demo Link](https://delhinrharl.github.io/ToDoList/)
+[Live Demo Link](https://delhinrharl.github.io/ToDoList/dist)
 
 ## Getting Started
 
