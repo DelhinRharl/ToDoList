@@ -34,8 +34,8 @@ function interactive(todoInput) {
   });
 }
 function deleteItem() {
-  const button = document.querySelectorAll('.fastrash');
-  button.forEach((item) => {
+  const trashBtn = document.querySelectorAll('.fastrash');
+  trashBtn.forEach((item) => {
     const parent = item.parentNode;
     const grandParent = parent.parentNode;
     const index = Array.prototype.indexOf.call(grandParent.children, parent);
